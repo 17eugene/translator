@@ -1,0 +1,20 @@
+.selectAreaContainer {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 55vw;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.options {
+  font-family: "Architects Daughter", sans-serif;
+  width: 100%;
+  height: 30px;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 1px;
+  border: none;
+  outline: none;
+  border-radius: 7px;
+}
